@@ -114,7 +114,7 @@ h1, h2{
     display: none;
 }
 
-.section-1 p{
+.section-1 p, a{
     font-family: Poppins;
     font-style: normal;
     font-weight: 500;
